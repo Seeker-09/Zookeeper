@@ -101,11 +101,12 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "asdf",
+      "species": "asdf",
+      "diet": "folivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "zany"
       ],
       "id": "10"
     }
@@ -212,11 +213,12 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "asdf",
+      "species": "asdf",
+      "diet": "folivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "zany"
       ],
       "id": "10"
     }
